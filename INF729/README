@@ -1,0 +1,6 @@
+
+1. copy project "TP_ParisTech_2017_2018_starter1" to your computer
+2. copy "prepared_trainingset" and "Model" to your computer
+3. open project "TP_ParisTech_2017_2018_starter1" with Untellij
+4. change path to the "prepared_trainingset" and "Model" in Trainer 
+5. run Trainer with ./build_and_submit.sh with a help of Terminal in Untellij
